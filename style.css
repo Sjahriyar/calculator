@@ -1,6 +1,7 @@
 
 body {
   width: 520px;
+  background: url(https://hdwallsource.com/img/2014/9/gradient-background-26046-26731-hd-wallpapers.jpg) center;
   margin: 4% auto;
   font-family: 'Source Sans Pro', sans-serif;
   letter-spacing: 5px;
@@ -37,6 +38,7 @@ animation:calc 3s 1s ease both;
   font-size: 2.5rem;
   overflow-x: auto;
   transition: all .2s ease-in-out;
+  color: white;
 }
 
 .input:hover {
