@@ -1,8 +1,12 @@
 
 body {
   width: 520px;
-  background: url(https://hdwallsource.com/img/2014/9/gradient-background-26046-26731-hd-wallpapers.jpg) center;
-  margin: 4% auto;
+  background: url(https://hdwallsource.com/img/2014/9/gradient-background-26046-26731-hd-wallpapers.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  margin: 10% auto;
   font-family: 'Source Sans Pro', sans-serif;
   letter-spacing: 5px;
   font-size: 1.8rem;
